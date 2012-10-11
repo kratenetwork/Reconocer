@@ -1,1 +1,1 @@
-this is my own WordPress installation master branch.
+This is my own WordPress installation master branch.
